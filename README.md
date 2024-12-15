@@ -1,5 +1,5 @@
 # Deeplearning.ai - Course Pprompt Engineering for developers
-- Course Online:https://learn.deeplearning.ai/courses/chatgpt-prompt-eng/
+- Course Online: https://learn.deeplearning.ai/courses/chatgpt-prompt-eng/
 - Git repo: [deeplearning.ai.promptengineering](https://github.com/oliverbarreto/deeplearning.ai.promptengineering.git)
 - Jupiter Notebooks of the course
 - Finished: 15 diciembre 2024
