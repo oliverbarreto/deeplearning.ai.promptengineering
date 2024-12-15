@@ -2,6 +2,7 @@
 - Course Online:https://learn.deeplearning.ai/courses/chatgpt-prompt-eng/
 - Git repo: deeplearning.ai.promptengineering
 - Jupiter Notebooks of the course
+- Finished: 15 diciembre 2024
 
 Lesson 1 - Introduction
 Lesson 2 - Guidelines
