@@ -14,3 +14,6 @@
   - Lesson 7 - Expanding
   - Lesson 8 - Chatbot
   - Lesson 9 - Conclusion
+
+
+![Course Completion Certificate](learn.deeplearning.ai_accomplishments_8741c825-1f6d-4316-80e4-272c7442b56f.png)
